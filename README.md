@@ -1,4 +1,4 @@
-WEEK01
+##WEEK01
 Student Name: Erdinç Kılıç
 Student ID: 2404109060
 Department: Management Information Systems
@@ -7,7 +7,7 @@ AI Tool Used: Chat GPT
 Prompt Used: "Python ile kullanıcıdan isim, bölüm, yaş ve kariyer hedefi alıp ekrana düzenli bir öğrenci profili bastıran basit bir kod yazar mısın?"
 What did you change? Girdi alırken değişken isimlerini kendi projemin akışına göre uyarladım ve çıktının ödev formatına tam uyması için print kısımlarını düzenledim.
 
-WEEK02
+##WEEK02
 AI Tool Used: Chat GPT
 Prompt Used: "Python'da sonsuz döngüyle çalışan bir öğrenci not hesaplama programı yazıyorum. Kullanıcı yanlışlıkla sayı yerine harf girerse programın çökmemesini nasıl yapabilirim
 ve genel ortalamayı virgülden sonra 2 basamak olacak şekilde nasıl yuvarlayabilirim?"
