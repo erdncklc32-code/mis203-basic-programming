@@ -1,0 +1,1 @@
+"İlk başta vergiyi kargo dahil toplam tutar üzerinden hesaplamıştım ((subtotal + delivery_fee) * tax). Yönergeyi tekrar okuyunca verginin sadece ürün ara toplamına uygulanması gerektiğini fark edip formülü tax_amount = subtotal * (tax_percent / 100) olarak düzelttim."
