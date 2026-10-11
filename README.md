@@ -26,3 +26,10 @@ Tests
   3. Input: Name: Hilmi, Age: 21, Day: weekday, Student: yes -> Result: Mert: 140.00 TRY (Student) [Boundary: Student upper age limit]
 Why does the order of the rules matter?
 If the Student rule comes first, a 10-year-old student gets only a 30% discount instead of the 40% child discount. The order matters because Python stops at the first true condition, so we must check bigger discounts first.
+
+
+##WEEK04
+
+A fun, interactive command-line number guessing game built with Python. Test your mind-reading skills against the computer.
+ About the Game
+The computer randomly selects a secret number between 1 and 100. Your goal is to guess the number within m7 attempts. After each guess, the game gives you helpful hints based on whether your guess was too high or too low.
