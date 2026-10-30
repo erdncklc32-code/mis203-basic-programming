@@ -31,4 +31,4 @@ else:
     print("-" * 27)
     print(f"Goal {'reached in ' + str(months) + ' months' if balance >= goal else 'not reached after 60 months'}.")
 
-print(f"Final Balance: {balance:.2f}\nTotal Interest Ea
+print(f"Final Balance: {balance:.2f}\nTotal Interest Earned: {total_int:.2f}")
